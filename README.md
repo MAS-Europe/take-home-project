@@ -1,5 +1,5 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/MAS-Europe/take-home-project/main/src/assets/across-logo.png"/>
+<div align="center" style={{ backgroundColor: '#476b9b' }}>
+    <img src="https://raw.githubusercontent.com/MAS-Europe/take-home-project/main/src/assets/mas-logo.png"/>
 </div>
 
 ## Description
@@ -12,7 +12,7 @@ This project is designed to test your knowledge of front-end web technologies an
 The goal of this exercise is to create a demo calendar application using React.
 
 You should start by rendering a single month view of a calendar for the current month, along the lines of the illustration below:
-<div align="center" style={{ backgroundColor: '#476b9b' }}>
+<div align="center">
     <img src="https://raw.githubusercontent.com/Jobsity/ReactChallenge/main/src/assets/CalendarSample.png"/>
 </div>
 
