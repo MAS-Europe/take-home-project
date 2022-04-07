@@ -1,4 +1,4 @@
-<div align="center" style={{ backgroundColor: '#476b9b' }}>
+<div align="center">
     <img src="https://raw.githubusercontent.com/MAS-Europe/take-home-project/main/src/assets/mas-logo.png"/>
 </div>
 
