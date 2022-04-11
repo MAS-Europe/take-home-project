@@ -45,3 +45,12 @@ You should start by rendering a single month view of a calendar for the current 
  - Run `npm install` | `yarn install` to install all dependencies.
  - Run `npm start`   | `yarn run` to run the app locally.
  - You can find the project running on `localhost:3000`.
+
+ ## Completion
+
+ - Upload the completed project to your own GitHub.
+ - Send a link of the completed project in order for us to clone it.
+
+ ## Questions
+
+- Should you have any questions, feel free to send an E-mail to your HR contact.
